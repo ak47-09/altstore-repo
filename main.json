@@ -7,20 +7,23 @@
     "website": "https://github.com/ak47-09",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp",
+        "company.thebrowser.ArcMobile2",
     ],
     "apps": [
         {
             "name": "Arc Search",
             "bundleIdentifier": "company.thebrowser.ArcMobile2",
-            "developerName": "Browser Company",
+            "developerName": "The Browser Company",
             "subtitle": "An awesome app.",
-            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "localizedDescription": "Arc Search - World's first AI-powered Browser.",
             "iconURL": "https://play-lh.googleusercontent.com/qYgB3jyi_AG1Iy7xnDgMBW8D6lg3YkVdJkkdSVccs7pGqsC8CcGF-S44yNs0-jp8dXGh",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://example.com/myapp_portrait_screenshot1.png",
-                "https://example.com/myapp_portrait_screenshot2.png",
+                "https://images.refero.design/screenshots/121/mobile/cf394e64-5217-4485-9a04-e082794576c5_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/48d2195a-abb1-45a6-ab6c-aabbae2f739b_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/cdd3f480-08b5-4dbf-9ea3-5339d568ee1e_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/828a9ca0-20aa-4c6e-ab2f-e4c4bc51477e_thumb.jpg",
+                "https://images.refero.design/screenshots/121/mobile/96138805-1b6b-4e29-a449-b2ae6fa3affc_thumb.jpg",
                 {
                     "imageURL": "https://example.com/myapp_landscape_screenshot.png",
                     "width": 2556,
