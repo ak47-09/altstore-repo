@@ -11,12 +11,12 @@
     ],
     "apps": [
         {
-            "name": "My Example App",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Example Developer",
+            "name": "Arc Search",
+            "bundleIdentifier": "company.thebrowser.ArcMobile2",
+            "developerName": "Browser Company",
             "subtitle": "An awesome app.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
-            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "iconURL": "https://play-lh.googleusercontent.com/qYgB3jyi_AG1Iy7xnDgMBW8D6lg3YkVdJkkdSVccs7pGqsC8CcGF-S44yNs0-jp8dXGh",
             "tintColor": "#5CA399",
             "screenshots": [
                 "https://example.com/myapp_portrait_screenshot1.png",
