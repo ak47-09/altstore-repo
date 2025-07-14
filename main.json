@@ -24,11 +24,6 @@
                 "https://images.refero.design/screenshots/121/mobile/cdd3f480-08b5-4dbf-9ea3-5339d568ee1e_thumb.jpg",
                 "https://images.refero.design/screenshots/121/mobile/828a9ca0-20aa-4c6e-ab2f-e4c4bc51477e_thumb.jpg",
                 "https://images.refero.design/screenshots/121/mobile/96138805-1b6b-4e29-a449-b2ae6fa3affc_thumb.jpg",
-                {
-                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
-                    "width": 2556,
-                    "height": 1179
-                }
             ],
             "versions": [
                 {
