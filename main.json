@@ -27,12 +27,12 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
-                    "date": "2022-05-01T09:00:00-08:00",
+                    "version": "1.43.0",
+                    "date": "2025-04-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://download1584.mediafire.com/c96okga16cugDHYht7xJM2sHyIRZb4WTMLVm3qF9z1R-cEA7rT8AahXTtpSwt-9i1jsMZX4LG96ELUFMKgNVOl6IcoKyzqmMyyJ3XNKvOrZJzHB2tFH1_Nosau_zAISpQR7NDRyGVsJeWynLL63ztumAU4kroBQulKHJFb3W/ruv101jvwecsoa7/company.thebrowser.ArcMobile2_1.43.0_und3fined.ipa",
-                    "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
+                    "localizedDescription": "Thank you for using Arc Search! We've made tweaks to improve Browse For Me results as well as fixes for four IOS security issues. Happy browsing!",
+                    "minOSVersion": "16.0"
                 },
             ],
             }
