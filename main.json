@@ -46,19 +46,18 @@
             "iconURL": "https://cdn-1.webcatalog.io/catalog/github/github-icon-filled-256.png?v=1750639266901",
             "tintColor": "#5CA399",
             "screenshots": [
-                "https://images.refero.design/screenshots/121/mobile/cf394e64-5217-4485-9a04-e082794576c5_thumb.jpg",
-                "https://images.refero.design/screenshots/121/mobile/48d2195a-abb1-45a6-ab6c-aabbae2f739b_thumb.jpg",
-                "https://images.refero.design/screenshots/121/mobile/cdd3f480-08b5-4dbf-9ea3-5339d568ee1e_thumb.jpg",
-                "https://images.refero.design/screenshots/121/mobile/828a9ca0-20aa-4c6e-ab2f-e4c4bc51477e_thumb.jpg",
-                "https://images.refero.design/screenshots/121/mobile/96138805-1b6b-4e29-a449-b2ae6fa3affc_thumb.jpg",
+                "blob:https://web.whatsapp.com/236b82ad-8f40-4536-bb28-16de09344702",
+                "blob:https://web.whatsapp.com/e9716d47-bbfc-4541-80eb-ac8a30ae28a4",
+                "blob:https://web.whatsapp.com/89db34fb-44d0-478c-ab89-c6cbb68eb00d",
+                "blob:https://web.whatsapp.com/3786bcff-350f-4d6a-b8c7-b03a4824508d",
             ],
             "versions": [
                 {
-                    "version": "1.43.0",
-                    "date": "2025-04-01T09:00:00-08:00",
-                    "size": 194900000,
-                    "downloadURL": "https://download1584.mediafire.com/c96okga16cugDHYht7xJM2sHyIRZb4WTMLVm3qF9z1R-cEA7rT8AahXTtpSwt-9i1jsMZX4LG96ELUFMKgNVOl6IcoKyzqmMyyJ3XNKvOrZJzHB2tFH1_Nosau_zAISpQR7NDRyGVsJeWynLL63ztumAU4kroBQulKHJFb3W/ruv101jvwecsoa7/company.thebrowser.ArcMobile2_1.43.0_und3fined.ipa",
-                    "localizedDescription": "Thank you for using Arc Search! We've made tweaks to improve Browse For Me results as well as fixes for four IOS security issues. Happy browsing!",
+                    "version": "1.217.0",
+                    "date": "2025-07-16T09:00:00-08:00",
+                    "size": 161100000,
+                    "downloadURL": "https://download1336.mediafire.com/6qo178xukatgjXUsPlmDikumnhCup63di-_dY6JsuUzi_xDN23-hgKNcoBHZs7YKqL4c5gfTiiW9aRxPyNIlWBk824fEpGVqIXzL4dpeq2qX78i-B3qRPvd3pqPL13HTlOAb6ZHHONhlR8lQiLHkEhVDVT2LX3CMPSsTae1SKM0/bgrhqmgnx4civ6f/com.github.stormbreaker.prod_1.213.0_und3fined.ipa",
+                    "localizedDescription": "Bug fixes: Display Issue and Pull Request comment time stamps using keyboard, Announce the date field for the accessibility users when they edit a project item, Announce the selection state in the reaction picker for the accessibility users.",
                     "minOSVersion": "16.0"
                 },
             ],
